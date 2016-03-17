@@ -1,0 +1,6 @@
+#define DBHOST  "dbhost"
+#define DBUSER  "dbuser"
+#define DBPASS  "dbpass"
+#define DBBASE  "dbbase"
+#define DOLIBASEURL	"http://dolibarr-install-root-url/"
+
